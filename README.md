@@ -1,4 +1,4 @@
-Backend do Proffy - https://github.com/rafaelgeronimo/proffy
+Frontend do Proffy -> https://github.com/rafaelgeronimo/proffy
 
 # Funcionalidades
 
